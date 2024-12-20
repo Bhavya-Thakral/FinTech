@@ -29,3 +29,13 @@
 
 # Build output
 /build/
+/ios/build/
+/android/build/
+
+# IDE config files
+.idea/
+.vscode/
+
+# Lock files
+package-lock.json
+yarn.lock
