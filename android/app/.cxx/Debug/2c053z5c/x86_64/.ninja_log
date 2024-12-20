@@ -1,0 +1,5 @@
+# ninja log v5
+0	4	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/x86_64/CMakeFiles/cmake.verify_globs	cc338352e6f0c66e
+0	1421	1734682189736914524	CMakeFiles/appmodules.dir/home/deeporion/Documents/GitHub/FinTech/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	8a0351dcda5d5ea2
+0	1651	1734682189964900877	CMakeFiles/appmodules.dir/OnLoad.cpp.o	63a3bb2853866a5e
+1651	1718	1734682190034896697	/home/deeporion/Documents/GitHub/FinTech/android/app/build/intermediates/cxx/Debug/2c053z5c/obj/x86_64/libappmodules.so	5de77f4174a87e79

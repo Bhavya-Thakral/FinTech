@@ -1,0 +1,1 @@
+/home/deeporion/Documents/GitHub/FinTech/android/app/build/intermediates/cxx/Debug/2c053z5c/obj/x86
