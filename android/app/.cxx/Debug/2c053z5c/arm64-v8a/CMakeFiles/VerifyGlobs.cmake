@@ -12,6 +12,31 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/arm64-v8a/CMakeFiles/cmake.verify_globs")
 endif()
 
+# react_codegen_SRCS at /home/deeporion/Documents/GitHub/FinTech/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt:9 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "/home/deeporion/Documents/GitHub/FinTech/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/*.cpp")
+set(OLD_GLOB
+  "/home/deeporion/Documents/GitHub/FinTech/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/rnreanimated-generated.cpp"
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/arm64-v8a/CMakeFiles/cmake.verify_globs")
+endif()
+
+# react_codegen_SRCS at /home/deeporion/Documents/GitHub/FinTech/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt:9 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "/home/deeporion/Documents/GitHub/FinTech/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/react/renderer/components/rnreanimated/*.cpp")
+set(OLD_GLOB
+  "/home/deeporion/Documents/GitHub/FinTech/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/react/renderer/components/rnreanimated/ComponentDescriptors.cpp"
+  "/home/deeporion/Documents/GitHub/FinTech/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/react/renderer/components/rnreanimated/EventEmitters.cpp"
+  "/home/deeporion/Documents/GitHub/FinTech/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/react/renderer/components/rnreanimated/Props.cpp"
+  "/home/deeporion/Documents/GitHub/FinTech/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/react/renderer/components/rnreanimated/ShadowNodes.cpp"
+  "/home/deeporion/Documents/GitHub/FinTech/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/react/renderer/components/rnreanimated/States.cpp"
+  "/home/deeporion/Documents/GitHub/FinTech/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/react/renderer/components/rnreanimated/rnreanimatedJSI-generated.cpp"
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/arm64-v8a/CMakeFiles/cmake.verify_globs")
+endif()
+
 # input_SRC at /home/deeporion/Documents/GitHub/FinTech/node_modules/react-native/ReactAndroid/cmake-utils/ReactNative-application.cmake:37 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/home/deeporion/Documents/GitHub/FinTech/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/*.cpp")
 set(OLD_GLOB

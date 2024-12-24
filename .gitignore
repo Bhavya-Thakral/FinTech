@@ -67,10 +67,61 @@ package-lock.json
 # testing
 /coverage
 
-# Yarn
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/sdks
-!.yarn/versions
+# npm
+.npm/*
+!.npm/patches
+!.npm/plugins
+!.npm/releases
+!.npm/sdks
+!.npm/versions
+
+# Ignore node_modules
+node_modules/
+
+# Ignore test files
+test/
+
+# Ignore build and bundle files for Android and iOS
+android/app/build/
+ios/Pods/
+ios/*.xcworkspace
+ios/build/
+
+# Ignore bundler output
+*.jsbundle
+*.map
+
+# Ignore lint and Husky-related files that shouldn't be tracked
+.husky/_/
+.eslintcache
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.DS_Store
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore OS-generated files
+Thumbs.db
+.DS_Store
+
+# Ignore Android build files
+android/app/build/
+android/.gradle/
+android/cxx/
+
+# Ignore CMake and Ninja build artifacts
+android/app/cxx/Debug/
+*.ninja
+*.o
+*.json
+*.cmake
+*.txt
+*.bin
+
+# Ignore autolinking and other intermediate files
+android/app/generated/autolinking/
