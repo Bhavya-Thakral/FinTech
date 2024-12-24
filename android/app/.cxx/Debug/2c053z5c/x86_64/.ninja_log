@@ -1,5 +1,17 @@
 # ninja log v5
+1586	1621	1735029118152975373	/home/deeporion/Documents/GitHub/FinTech/android/app/build/intermediates/cxx/Debug/2c053z5c/obj/x86_64/libappmodules.so	5de77f4174a87e79
+5	34	1735033695295604881	build.ninja	f58c7b64fa03ddeb
 0	4	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/x86_64/CMakeFiles/cmake.verify_globs	cc338352e6f0c66e
-0	1421	1734682189736914524	CMakeFiles/appmodules.dir/home/deeporion/Documents/GitHub/FinTech/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	8a0351dcda5d5ea2
-0	1651	1734682189964900877	CMakeFiles/appmodules.dir/OnLoad.cpp.o	63a3bb2853866a5e
-1651	1718	1734682190034896697	/home/deeporion/Documents/GitHub/FinTech/android/app/build/intermediates/cxx/Debug/2c053z5c/obj/x86_64/libappmodules.so	5de77f4174a87e79
+5	1586	1735029118112977790	CMakeFiles/appmodules.dir/OnLoad.cpp.o	63a3bb2853866a5e
+0	3	0	clean	e2d4fc6f56ab3d48
+5	1370	1735029117897990733	CMakeFiles/appmodules.dir/home/deeporion/Documents/GitHub/FinTech/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	8a0351dcda5d5ea2
+0	3	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/x86_64/CMakeFiles/cmake.verify_globs	cc338352e6f0c66e
+3	1356	1735033696662580976	CMakeFiles/appmodules.dir/home/deeporion/Documents/GitHub/FinTech/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	49640423b92e82ce
+3	1576	1735033696882577129	CMakeFiles/appmodules.dir/OnLoad.cpp.o	7df268195d3d28c2
+1576	1610	1735033696920576465	/home/deeporion/Documents/GitHub/FinTech/android/app/build/intermediates/cxx/Debug/2c053z5c/obj/x86_64/libappmodules.so	44950a4850c15dde
+1	6	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/x86_64/CMakeFiles/cmake.verify_globs	cc338352e6f0c66e
+0	4	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/x86_64/CMakeFiles/cmake.verify_globs	cc338352e6f0c66e
+0	5	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/x86_64/CMakeFiles/cmake.verify_globs	cc338352e6f0c66e
+0	5	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/x86_64/CMakeFiles/cmake.verify_globs	cc338352e6f0c66e
+0	4	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/x86_64/CMakeFiles/cmake.verify_globs	cc338352e6f0c66e
+0	4	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/x86_64/CMakeFiles/cmake.verify_globs	cc338352e6f0c66e

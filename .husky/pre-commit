@@ -1,0 +1,8 @@
+
+# Run linting
+npm run lint
+
+# Format the code
+npm run format
+
+# Run tests (optional)

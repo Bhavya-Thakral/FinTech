@@ -2,7 +2,32 @@
   "root": "/home/deeporion/Documents/GitHub/FinTech",
   "reactNativePath": "/home/deeporion/Documents/GitHub/FinTech/node_modules/react-native",
   "reactNativeVersion": "0.76",
-  "dependencies": {},
+  "dependencies": {
+    "react-native-splash-screen": {
+      "root": "/home/deeporion/Documents/GitHub/FinTech/node_modules/react-native-splash-screen",
+      "name": "react-native-splash-screen",
+      "platforms": {
+        "ios": {
+          "podspecPath": "/home/deeporion/Documents/GitHub/FinTech/node_modules/react-native-splash-screen/react-native-splash-screen.podspec",
+          "version": "3.3.0",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "/home/deeporion/Documents/GitHub/FinTech/node_modules/react-native-splash-screen/android",
+          "packageImportPath": "import org.devio.rn.splashscreen.SplashScreenReactPackage;",
+          "packageInstance": "new SplashScreenReactPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "/home/deeporion/Documents/GitHub/FinTech/node_modules/react-native-splash-screen/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    }
+  },
   "commands": [
     {
       "name": "bundle",

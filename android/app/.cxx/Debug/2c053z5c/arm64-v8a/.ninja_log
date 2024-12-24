@@ -1,5 +1,13 @@
 # ninja log v5
+2477	2531	1735033690740684518	/home/deeporion/Documents/GitHub/FinTech/android/app/build/intermediates/cxx/Debug/2c053z5c/obj/arm64-v8a/libappmodules.so	3cd551708788f867
+9	43	1735033775631196760	build.ninja	de5cc39bed34a118
+5	2477	1735033690676685636	CMakeFiles/appmodules.dir/OnLoad.cpp.o	f21ef8fbd7f68a95
+0	4	0	clean	e2d4fc6f56ab3d48
+6	2126	1735033690332691650	CMakeFiles/appmodules.dir/home/deeporion/Documents/GitHub/FinTech/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	e01c95eb5fe9cce6
+0	4	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/arm64-v8a/CMakeFiles/cmake.verify_globs	e17abd2205d898c8
 0	3	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/arm64-v8a/CMakeFiles/cmake.verify_globs	e17abd2205d898c8
-0	3674	1734682182099379627	CMakeFiles/appmodules.dir/home/deeporion/Documents/GitHub/FinTech/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	ca1d3e6b1709d3fa
-1	3925	1734682182350364091	CMakeFiles/appmodules.dir/OnLoad.cpp.o	552635e4d2eabaef
-3925	3979	1734682182407360564	/home/deeporion/Documents/GitHub/FinTech/android/app/build/intermediates/cxx/Debug/2c053z5c/obj/arm64-v8a/libappmodules.so	8d565684bccb227c
+1	4	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/arm64-v8a/CMakeFiles/cmake.verify_globs	e17abd2205d898c8
+0	3	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/arm64-v8a/CMakeFiles/cmake.verify_globs	e17abd2205d898c8
+1	3	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/arm64-v8a/CMakeFiles/cmake.verify_globs	e17abd2205d898c8
+1	5	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/arm64-v8a/CMakeFiles/cmake.verify_globs	e17abd2205d898c8
+0	3	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/arm64-v8a/CMakeFiles/cmake.verify_globs	e17abd2205d898c8

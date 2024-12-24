@@ -1,5 +1,17 @@
 # ninja log v5
+1816	1851	1735029114261206371	/home/deeporion/Documents/GitHub/FinTech/android/app/build/intermediates/cxx/Debug/2c053z5c/obj/armeabi-v7a/libappmodules.so	104044e08447c126
+3	29	1735033691025679536	build.ninja	260575751b5f6717
+5	1732	1735029114139213514	CMakeFiles/appmodules.dir/OnLoad.cpp.o	9b9dc9b7d414f5d6
+0	3	0	clean	e2d4fc6f56ab3d48
+5	1816	1735029114225208479	CMakeFiles/appmodules.dir/home/deeporion/Documents/GitHub/FinTech/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	77c527cdce4dca01
+0	3	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/armeabi-v7a/CMakeFiles/cmake.verify_globs	9a542b54045263cd
+0	3	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/armeabi-v7a/CMakeFiles/cmake.verify_globs	9a542b54045263cd
+6	1251	1735033692290657421	CMakeFiles/appmodules.dir/home/deeporion/Documents/GitHub/FinTech/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	f6bfb0f17a195dbe
+6	1544	1735033692582652316	CMakeFiles/appmodules.dir/OnLoad.cpp.o	7824c8b248ada635
+1544	1579	1735033692622651616	/home/deeporion/Documents/GitHub/FinTech/android/app/build/intermediates/cxx/Debug/2c053z5c/obj/armeabi-v7a/libappmodules.so	80b4f0872962cab3
 0	4	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/armeabi-v7a/CMakeFiles/cmake.verify_globs	9a542b54045263cd
-0	1433	1734682184682220448	CMakeFiles/appmodules.dir/home/deeporion/Documents/GitHub/FinTech/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	77c527cdce4dca01
-1	1622	1734682184873208738	CMakeFiles/appmodules.dir/OnLoad.cpp.o	9b9dc9b7d414f5d6
-1623	1693	1734682184946204262	/home/deeporion/Documents/GitHub/FinTech/android/app/build/intermediates/cxx/Debug/2c053z5c/obj/armeabi-v7a/libappmodules.so	104044e08447c126
+0	4	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/armeabi-v7a/CMakeFiles/cmake.verify_globs	9a542b54045263cd
+0	5	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/armeabi-v7a/CMakeFiles/cmake.verify_globs	9a542b54045263cd
+0	4	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/armeabi-v7a/CMakeFiles/cmake.verify_globs	9a542b54045263cd
+0	5	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/armeabi-v7a/CMakeFiles/cmake.verify_globs	9a542b54045263cd
+0	4	0	/home/deeporion/Documents/GitHub/FinTech/android/app/.cxx/Debug/2c053z5c/armeabi-v7a/CMakeFiles/cmake.verify_globs	9a542b54045263cd

@@ -22,9 +22,9 @@
       "abi": "armeabi-v7a",
       "output": "/home/deeporion/Documents/GitHub/FinTech/android/app/build/intermediates/cxx/Debug/2c053z5c/obj/armeabi-v7a/libappmodules.so",
       "runtimeFiles": [
-        "/home/deeporion/.gradle/caches/8.10.2/transforms/8b60b4f75564ac53567672df7a1c9a73/transformed/fbjni-0.6.0/prefab/modules/fbjni/libs/android.armeabi-v7a/libfbjni.so",
-        "/home/deeporion/.gradle/caches/8.10.2/transforms/1ae2c2bcce3cae52224b57e1fa01bdc7/transformed/react-android-0.76.5-debug/prefab/modules/jsi/libs/android.armeabi-v7a/libjsi.so",
-        "/home/deeporion/.gradle/caches/8.10.2/transforms/1ae2c2bcce3cae52224b57e1fa01bdc7/transformed/react-android-0.76.5-debug/prefab/modules/reactnative/libs/android.armeabi-v7a/libreactnative.so"
+        "/home/deeporion/.gradle/caches/8.10.2/transforms/0b396a6571faea36ef3e81439b17aeab/transformed/jetified-fbjni-0.6.0/prefab/modules/fbjni/libs/android.armeabi-v7a/libfbjni.so",
+        "/home/deeporion/.gradle/caches/8.10.2/transforms/95f6f58ffe80f07573bbc4f1f4f0ecd0/transformed/jetified-react-android-0.76.5-debug/prefab/modules/jsi/libs/android.armeabi-v7a/libjsi.so",
+        "/home/deeporion/.gradle/caches/8.10.2/transforms/95f6f58ffe80f07573bbc4f1f4f0ecd0/transformed/jetified-react-android-0.76.5-debug/prefab/modules/reactnative/libs/android.armeabi-v7a/libreactnative.so"
       ]
     }
   }
