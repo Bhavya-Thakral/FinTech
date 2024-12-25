@@ -41,5 +41,8 @@
     "**.jsx",
     "**.ts",
     "**.tsx"
-  ]
+  ],
+  "jest": {
+    "preset": "react-native"
+  }
 }
