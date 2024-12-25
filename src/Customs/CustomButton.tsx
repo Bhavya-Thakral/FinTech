@@ -1,7 +1,11 @@
 import {StyleSheet, Text, TouchableOpacity} from 'react-native';
 import React from 'react';
 import {GlobalColors} from '../constants/Colors';
-import { responsiveScreenFontSize, responsiveScreenHeight, responsiveScreenWidth } from 'react-native-responsive-dimensions';
+import {
+  responsiveScreenFontSize,
+  responsiveScreenHeight,
+  responsiveScreenWidth,
+} from 'react-native-responsive-dimensions';
 
 interface CustomButtonProps {
   title: string;
@@ -10,7 +14,6 @@ interface CustomButtonProps {
   textStyle?: object;
   disabled?: boolean;
   loading?: boolean;
-  loadingSize?: number | 'small' | 'large';
   [key: string]: any;
 }
 
@@ -21,16 +24,15 @@ const CustomButton: React.FC<CustomButtonProps> = ({
   textStyle,
   disabled,
   loading,
-  loadingSize,
   ...props
 }) => {
   return (
     <TouchableOpacity
       onPress={onPress}
-      style={[styles.container,style]}
+      style={[styles.container, style]}
       disabled={disabled || loading}
       {...props}>
-      <Text style={[ styles.text,textStyle]}>{title}</Text>
+      <Text style={[styles.text, textStyle]}>{title}</Text>
     </TouchableOpacity>
   );
 };
@@ -48,7 +50,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   text: {
-    color: 'white',
+    color: GlobalColors.light.ContentOnColor,
     fontSize: responsiveScreenFontSize(2),
     textAlign: 'center',
   },

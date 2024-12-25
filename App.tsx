@@ -1,4 +1,4 @@
-import React, {useEffect, useState, useLayoutEffect} from 'react';
+import React, {useEffect, useState} from 'react';
 import {Alert, StatusBar, useColorScheme} from 'react-native';
 import SplashScreen from 'react-native-splash-screen';
 import {AppProvider} from 'context/Context';
@@ -47,10 +47,13 @@ function App(): React.JSX.Element {
     backgroundColor: isDarkMode ? GlobalColors.dark.bg : GlobalColors.light.bg,
   };
 
-
   const SignUpStack = () => {
     return (
-      <Stack.Navigator initialRouteName="CreateAccount" screenOptions={{headerStyle: {backgroundColor: backgroundStyle.backgroundColor}}}>
+      <Stack.Navigator
+        initialRouteName="CreateAccount"
+        screenOptions={{
+          headerStyle: {backgroundColor: backgroundStyle.backgroundColor},
+        }}>
         <Stack.Screen
           name="CreateAccount"
           component={CreateAccount}
@@ -69,7 +72,7 @@ function App(): React.JSX.Element {
         />
       </Stack.Navigator>
     );
-  }
+  };
 
   return (
     <AppProvider>
@@ -78,7 +81,11 @@ function App(): React.JSX.Element {
         backgroundColor={backgroundStyle.backgroundColor}
       />
       <NavigationContainer>
-        <Stack.Navigator initialRouteName="OnBoarding" screenOptions={{headerStyle: {backgroundColor: backgroundStyle.backgroundColor}}}>
+        <Stack.Navigator
+          initialRouteName="OnBoarding"
+          screenOptions={{
+            headerStyle: {backgroundColor: backgroundStyle.backgroundColor},
+          }}>
           <Stack.Screen
             name="OnBoarding"
             component={OnBoarding}
@@ -95,7 +102,7 @@ function App(): React.JSX.Element {
               headerTitle: '',
             }}
           />
-           <Stack.Screen
+          <Stack.Screen
             name="SignUpStack"
             component={SignUpStack}
             options={{

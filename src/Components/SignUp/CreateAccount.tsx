@@ -22,7 +22,7 @@ const CreateAccount = () => {
   const [show, setShow] = useState(false);
   const [flag, setFlag] = useState('🇮🇳');
   const [countryCode, setCountryCode] = useState('+91');
-  const [phone, setPhone] = useState('');  
+  const [phone, setPhone] = useState('');
 
   return (
     <ScrollView
@@ -124,7 +124,7 @@ const CreateAccount = () => {
                   ? GlobalColors.dark.ContentDisabled
                   : GlobalColors.light.ContentDisabled
               }
-              keyboardType='phone-pad'
+              keyboardType="phone-pad"
               maxLength={10}
               onChangeText={setPhone}
             />
@@ -142,9 +142,12 @@ const CreateAccount = () => {
         <CustomButton
           onPress={() => {}}
           title="Continue"
-          style={[phone.length !== 10 ? {backgroundColor: GlobalColors.light.Border} : {}
-            ,{alignSelf: 'center',
-          }]}
+          style={[
+            phone.length !== 10
+              ? {backgroundColor: GlobalColors.light.Border}
+              : {},
+            {alignSelf: 'center'},
+          ]}
           disabled={phone.length !== 10}
         />
       </View>
@@ -185,7 +188,7 @@ const styles = StyleSheet.create({
   phone: {
     marginTop: responsiveScreenHeight(2),
     gap: responsiveScreenHeight(1),
-    flex:.75
+    flex: 0.75,
   },
   phoneHead: {
     fontSize: responsiveScreenFontSize(1.8),

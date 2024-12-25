@@ -71,11 +71,9 @@ const OnBoarding = ({navigation}) => {
       style={{
         flex: 1,
         backgroundColor:
-          theme === 'dark'
-            ? GlobalColors.dark.bg
-            : GlobalColors.light.bg,
+          theme === 'dark' ? GlobalColors.dark.bg : GlobalColors.light.bg,
       }}>
-      <SafeAreaView style={[styles.container]}>
+      <SafeAreaView style={styles.container}>
         <ScrollView
           ref={scrollViewRef}
           onScroll={handleScroll}
